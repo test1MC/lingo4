@@ -31,7 +31,7 @@
         name="MadCap Statistics">
         <count
           count-type="total"
-          unit="segment">14</count>
+          unit="segment">18</count>
         <count
           count-type="x-subflow"
           unit="trans-unit">0</count>
@@ -174,6 +174,44 @@
         phase-name="pretrans"><source>Orange</source><seg-source><mrk
             mtype="seg"
             mid="1">Orange</mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="9"
+        restype="word"
+        phase-name="pretrans"><source><bpt
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="13" style="font-weight:bold;color:#4F81BD;"&gt;</bpt>Avocado<ept
+            id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></source><seg-source><mrk
+            mtype="seg"
+            mid="1"><bpt
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;span rid="13" style="font-weight:bold;color:#4F81BD;"&gt;</bpt></mrk><mrk
+            mtype="seg"
+            mid="2">Avocado</mrk><mrk
+            mtype="seg"
+            mid="3"><ept
+              id="1" xmlns="urn:oasis:names:tc:xliff:document:1.2">&lt;/span&gt;</ept></mrk></seg-source><target
+          state="needs-translation"><mrk
+            mtype="seg"
+            mid="1"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /><mrk
+            mtype="seg"
+            mid="2"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0"
+            MadCap:diff="New" /><mrk
+            mtype="seg"
+            mid="3"
+            MadCap:segmentStatus="Untranslated"
+            MadCap:matchPercent="0" /></target></trans-unit><trans-unit
+        id="10"
+        restype="word"
+        phase-name="pretrans"><source>Green</source><seg-source><mrk
+            mtype="seg"
+            mid="1">Green</mrk></seg-source><target
           state="needs-translation"><mrk
             mtype="seg"
             mid="1"
